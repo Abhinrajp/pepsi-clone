@@ -1,0 +1,252 @@
+
+@font-face {
+    font-family: gg;
+    src: url(./PepsiOwners-Regular\ \(1\).ttf);
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: gg;
+    background-color: #0025ff;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main {
+    background-color:#0025ff;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+
+}
+option
+{
+    background-color: #0a0b27;
+}
+.Brands
+{
+    background-color: #0a0b27;
+}
+.viewproduct
+{
+    margin: 20px;
+   color: white;
+   text-decoration: none;
+   font-weight: 900;
+   font-size: .875rem;
+   
+}
+.topbar
+{
+    display: flex;
+    align-items: center;
+    z-index: 10;
+}
+.pepsi125
+{
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: .875rem;
+}
+.contactus
+{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: .875rem;
+}
+.buypepsi
+{
+    margin-right: 40px;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 6px 8px;
+    border-radius: 10px;
+    font-weight: 900;
+    font-size: .875rem;
+}
+.fvideo
+{
+object-fit: cover;
+margin-top: 90px;
+}
+.sndbar
+{
+    background-color: black;
+    width: 100%;
+    height: 357px;
+    margin-bottom: 7px;
+    padding: 0;
+    margin-top: -5px;
+    font-size: 70px;
+    line-height: 63px;
+    padding: 6px 8px;
+    text-align: center;
+   font-family: gg;
+    font-weight:bolder;
+    letter-spacing: 10px;
+}
+.buton
+{
+    margin-top: 50px;
+}
+.sndbar h2{
+    font-size: 66px;
+}
+.sndbar h3{
+    font-size: 44px;
+}
+.falong
+{
+    background-color: #0025ff;
+    font-size: 50px;
+    color: white;
+    font-weight: 900;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+
+}
+.fm
+{
+    margin-top: -7px;
+}
+.fv
+{
+    margin-top: -5px;
+}
+.trdbar
+{
+    background-color: black;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bolder ;
+    margin-top: -6px;
+}
+.tt h2
+{
+    padding-top: 10px;
+    letter-spacing: 2px;
+}
+.flpic
+{
+    margin-top: 10px;
+    height: 230px;
+    display: flex;
+    justify-content: center;
+    border: 3px solid blue;
+    margin-left: 65px;
+    margin-right: 70px;
+    /* padding-left: 20px;
+    padding-right: 20px; */
+}
+.flpic img
+{
+    object-fit: cover;
+    width: 222px;
+}
+.flbar
+{
+    background-color: #0025ff;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    padding-top: 70px;
+    
+}
+.fllogo
+{
+    height: 110px;
+    width: 200px;
+    margin-top: 10px;
+    margin-right: 110px;
+    margin-left: -20px;
+    
+}
+.fcla
+{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+ .f a:hover
+{
+   color:  lightblue;
+}
+.s a:hover
+{
+   color:   lightblue;
+}
+.tl a:hover
+{
+   color:   lightblue;
+}
+
+.f a,.s a,.tl a
+{
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+}
+.f,.s,.t
+{
+    margin-right: 90px;
+}
+.lf
+{
+    margin-top: 40px;
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+    width: 53px;
+    height: 40px;
+}
+.if,.is,.it,.ifr,.ifi,.is
+{
+    margin-left: 10px;
+}
+.hover_img:hover
+{
+    opacity: 0.3;
+}
+.cookie
+{
+    color: white;
+    font-weight: bolder;
+}
+.lc
+{
+    margin-top: 200px;
+    margin-left: 86px;
+}
+.lf img
+{
+    margin-right: 10px;
+}
+@font-face {
+    font-family: auqawax;
+    src: url(/images/Aquawax\ Medium\ Trial.ttf) format(truetype);
+    font-weight:900;
+  }
+  
